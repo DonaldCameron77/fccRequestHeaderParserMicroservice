@@ -1,0 +1,2 @@
+laser-arrow.glitch.me
+laser-arrow.glitch.me/api/whoami

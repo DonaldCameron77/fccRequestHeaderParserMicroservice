@@ -1,0 +1,14 @@
+{
+  "name": "requestheaderparser",
+  "version": "1.0.0",
+  "description": "FCC Request Header Parser Microservice Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donald Cameron",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
